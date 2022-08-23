@@ -5,6 +5,13 @@ body {
     color: #f7f7f7;
 }
 
+h1.display-4 {
+    word-spacing: 20px;
+    
+    letter-spacing: 10px;
+}
+
+
 .jumbotron {
     background-image: url("../images/nasa.jpg");
 
@@ -12,6 +19,13 @@ body {
 
     text-align: center;
 }
+
+.intro {
+    font-style: oblique;
+    text-transform: capitalize;
+    text-align: justify;
+}
+
 
 li {
     style: font-family: inherit; 
