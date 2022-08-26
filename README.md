@@ -20,7 +20,7 @@ Once this had been completed, Dana wanted a more in-depth analysis of the UFO si
 
 ![All Unfiltered Results](/github_resources/unfiltered.png)
 <sub>   All Unfiltered Results</sub>
-<br>
+<br><br>
 
 ### Filtering by State:
 
@@ -28,7 +28,7 @@ Once this had been completed, Dana wanted a more in-depth analysis of the UFO si
 
 ![State Filter Results](/github_resources/state_filtered.png)
 <sub>   State Filtered Results</sub>
-<br>
+<br><br>
 
 ### Filtering by State and Shape:
 
@@ -36,7 +36,7 @@ Once this had been completed, Dana wanted a more in-depth analysis of the UFO si
 
 ![State and Shape results](/github_resources/state_shape_filtered.png)
 <sub>   State and Shape Filtered Results</sub>
-<br>
+<br><br>
 
 
 ## Summary:
