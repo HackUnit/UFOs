@@ -45,6 +45,6 @@ Once this had been completed, Dana wanted a more in-depth analysis of the UFO si
 
 Two ways this webpage may be further developed:
 
-- First, build out an even more robust search system. Have something that does pop up when no results are found, provide a drop down instead of having to rely on users typing in specific criteria.
+- First, build out an even more robust search system. Have something that does pop up when no results are found, provide a drop down instead of having to rely on users typing in specific criteria and in general provide error support as ways to make the search system more robust.
 
-- The data can not only be expanded upon; it can also be further transformed before it is loaded to not have any lowercase values. The lowercase values for the criteria, except the comments, give off an un-professional feel that doesn't help the validity of the final webpage.
+- Secondly, the data can not only be expanded upon; it can also be further transformed before it is even loaded as to not have any lowercase values. The lowercase values for the criteria, except the comments, give off an un-professional feel and make it difficult if a user accidentally capitalizies their criteria. This will also further help the validity of the final webpage.
