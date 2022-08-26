@@ -16,7 +16,7 @@ Once this had been completed, Dana wanted a more in-depth analysis of the UFO si
 
 ### Expanded Filters and Performing a Search:
 
-- Utilizing the expanded filters, a user may enter specific criteria within the appropriate input boxes to pare down the data and only show the results of the criteria that was specified. This filtering from the end user can eitherbe from entering criteria into one input box or multiple boxes to get more specific results.
+- Utilizing the expanded filters, a user may enter specific criteria within the appropriate input boxes to pare down the data and only show the results of the criteria that was specified. This filtering from the end user can either be from entering criteria into one input box or multiple boxes to get more specific results.
 
 ![All Unfiltered Results](/github_resources/unfiltered.png)
 <sub>   All Unfiltered Results</sub>
