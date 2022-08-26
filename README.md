@@ -5,7 +5,7 @@
 
 ### UFO Sightings and Filtering That Data:
 
-For this project, we were tasked with assisting a data journalist named Dana in covering a topic regarding UFO sightings. A JavaScript file is all that Dana had as the dataset, but it was full of information regarding the date, city, state, country, type of sighting, duration and comments on each sighting. JavaScript was further utilized to extract and transform the data within the supplied JavaScript dataset file. The data was then transformed and functions created so that an end user could filter by date through the dataset and the filtered data was then displayed in a table format. A complete webpage was also created to house the table and other information regarding the project itself.
+For this project, we were tasked with assisting a data journalist named Dana in covering a topic regarding UFO sightings. A JavaScript file is all that Dana had as the dataset, but it was full of information regarding the date, city, state, country, type of sighting, duration and comments on each sighting. JavaScript was further utilized to extract and transform the data within the supplied JavaScript dataset file. Functions were created so that an end user could filter by date through the dataset and the filtered data was then displayed in a table format. A complete webpage was also created to house the table and other information regarding the project itself.
 
 Once this had been completed, Dana wanted a more in-depth analysis of the UFO sightings that allowed users to filter through multiple criteria at the same time. This final purpose would be to further utilize the dataset and provide for more flexibility in paring down search results.
 
